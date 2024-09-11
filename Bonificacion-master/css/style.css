@@ -1,0 +1,31 @@
+.flexContainer{
+    text-align: center;
+    margin: auto;
+}
+
+.divP{
+    width: 500px;
+    margin: auto;
+    color: darkgray;
+    margin-bottom: 50px;
+}
+
+.divImg{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.flexLinks{
+    display: flex;
+    width: 50%;
+    margin-left:  400PX;
+    
+}
+
+.divBeforeLeaveAcoment>p{
+    display: flex;
+    justify-content: center;
+}
+
+
